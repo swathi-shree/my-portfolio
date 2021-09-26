@@ -8,28 +8,28 @@ export const projects = [
     link: "https://github.com/swathi-shree/AndroidTunes",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Big Data Analysis",
+    subtitle: "Apache Spark and Python",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Analyse customer reviews for jewellery items from Amazon and perform Sentimental Analysis on it",
     image: "./project-2.gif",
-    link: "https://github.com/swathi-shree/AndroidTunes",
+    link: "https://github.com/swathi-shree/BigData_Analysis",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "FashionImage-Classifier",
+    subtitle: "Pytorch",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Built a multi class classifier that categorizes fashion clothing items from the Fashion MNIST Dataset.",
     image: "./project-3.gif",
-    link: "https://github.com/swathi-shree/AndroidTunes",
+    link: "https://github.com/swathi-shree/FashionImage-Classfier",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Concert Booking Service",
+    subtitle: "Java",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Booking service for concerts developed using REST APIs",
     image: "./project-4.gif",
-    link: "https://github.com/swathi-shree/AndroidTunes",
+    link: "https://github.com/swathi-shree/concert-webservice",
   },
 ];
 
